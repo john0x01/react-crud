@@ -5,7 +5,8 @@ This application was developed during a react course from <a href="https://www.c
 
 ## Technologies
 <ul>
-  <li> React </li>
+  <li> ReactJS </li>
+  <li> JSON Server </li>
 </ul>
 
 ## Usage
