@@ -1,10 +1,13 @@
 # React-crud
 User CRUD (Create, Read, Update and Delete) made using React &amp; JSON Server
 <br><br>
-This application was developed during a react course from <a href="https://www.cod3r.com.br/"><strong>Cod3r</strong></a>
+This application was developed during a react course from <a href="https://www.cod3r.com.br/" style="text-decoration: none;"><strong>Cod3r</strong></a>
 
 ## Technologies
-<ul> React </ul>
+<ul>
+  <li> React </li>
+</ul>
+
 ## Usage
 ```
 chmod +x start.sh
